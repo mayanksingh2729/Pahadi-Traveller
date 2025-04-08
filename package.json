@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npm exec vite",
-    "build": "npm exec vite build",
-    "build:dev": "npm exec vite build --mode development",
-    "preview": "npm exec vite preview",
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "build:dev": "npx vite build --mode development",
+    "preview": "npx vite preview",
     "lint": "eslint ."
   },
   "engines": {
