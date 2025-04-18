@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pahadi-traveller.onrender.com/sitemap.xml
